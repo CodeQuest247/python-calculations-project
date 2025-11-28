@@ -1,4 +1,4 @@
-# CS 7 – Assignment 1 (Python)
+# Beginner Python Calculation Program 
 
 This is a beginner **Python** program that practices user input, calculations, and formatted output.
 
